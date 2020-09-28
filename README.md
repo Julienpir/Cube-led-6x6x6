@@ -1,4 +1,4 @@
-# Cube-led-6x6x6
+# Cube à led 6x6x6
 
 ##  Description :
 Projet visant à la réalisation d'un objet de décoration. Utilisant la couleur des leds pour créer des animations. 
